@@ -1,7 +1,7 @@
 ### Assignment: 
 
 #### Continuing our objective with learning Pytorch, refer to this code: LINK (Links to an external site.)
-> Change this model in such a way that it:
+> ### Change this model in such a way that it:
 1. less than 15k params
 2. uses dropout of 0.1 
 3. uses batchnorm
